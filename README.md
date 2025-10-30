@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis une étudiante en 3e année de licence professionnelle en informatique, spécialisé en génie logiciel. Passionnée par le développement backend (Django, Laravel,SpringBoot) et frontend (Flutter, Angular, React),j'aime des designs captivants et des solutions modernes. Curieuse et motivée. Mon objectif est d'atteindre un haut niveau d'excellence dans mes projets et d'apprendre en continu.mon email : annesessou72@gmail.com
+Diplomée de licence professionnelle en informatique, spécialisé en génie logiciel. Passionnée par le développement backend (Django, Laravel,SpringBoot) et frontend (Flutter, Angular, React),j'aime des designs captivants et des solutions modernes. Curieuse et motivée. Mon objectif est d'atteindre un haut niveau d'excellence dans mes projets et d'apprendre en continu.mon email : annesessou72@gmail.com
 
 
 ## 🌐 Socials:
